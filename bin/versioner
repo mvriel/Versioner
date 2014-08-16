@@ -1,0 +1,10 @@
+#!/usr/bin/php
+<?php
+require __DIR__ . '/../vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use MvRiel\Versioner\IncrementCommand;
+
+$application = new Application();
+$application->add(new IncrementCommand());
+$application->run();

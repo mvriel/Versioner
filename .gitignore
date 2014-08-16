@@ -1,0 +1,5 @@
+.idea
+vendor
+composer.phar
+box.phar
+versioner.phar

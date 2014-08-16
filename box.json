@@ -1,0 +1,8 @@
+{
+    "chmod": "0755",
+    "compactors": [ "Herrera\\Box\\Compactor\\Php" ],
+    "directories": [ "src", "vendor" ],
+    "main": "bin/versioner",
+    "output": "versioner.phar",
+    "stub": true
+}

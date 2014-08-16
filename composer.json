@@ -1,5 +1,5 @@
 {
-  "name":    "mvriel/bumpversion",
+  "name":    "mvriel/versioner",
   "license": "MIT",
   "keywords": ["semantic", "version"],
   "authors": [{"name": "Mike van Riel", "email": "me@mikevanriel.com", "homepage": "http://mikevanriel.com"}],
